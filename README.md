@@ -4,3 +4,5 @@ It also gives a dialog of who won in the end
 If you have python installed on your computer, just download the zip and open it with the python compiler! Have fun!
 //mind some of the variable names haha...
 
+![](http://imgur.com/oe5JRm2.gif)
+
